@@ -1,0 +1,8 @@
+- Floor
+    - Corridor[]
+        - type:main/sub
+            equipments[]
+                - type: light/ac
+                - isControlled: true
+                - state: on/off
+                - unitsConsumed : 5/10
